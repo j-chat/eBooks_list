@@ -10,7 +10,7 @@ A list of my favorite eBooks
 * [Splunk - The Essential Guide to Machine Data](https://www.singtel.com/content/dam/singtel/business/enterprise%20solutions/cyber-security/run-the-world/Splunk_The-essential-guide-to-machine-data.pdf)
 
 ## Statistics 
-* [Allen B Downy - Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
+* [Allen B Downey - Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
 * [Peter Bruce and Andrew Bruce - Practical Statistics for Data Scientists](https://math2510.coltongrainger.com/books/2017-bruce-and-bruce-pratical-statistics-for-data-scientists.pdf)
 
 
